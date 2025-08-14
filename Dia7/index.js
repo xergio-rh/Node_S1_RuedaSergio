@@ -36,6 +36,8 @@ function showMenu(){
     return opcionUsuario;
 }
 
+
+
 function handleMenu(option){
     switch (option){
         case "1":
